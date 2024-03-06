@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 800px) {
+
+    #navbarNavDropdown{
+        display: flex;
+        justify-content: center;
+    }
+
+    ul{
+        margin-left: -6%;
+    }
+}
