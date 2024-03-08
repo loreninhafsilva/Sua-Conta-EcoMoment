@@ -11,3 +11,59 @@
         margin-left: -6%;
     }
 }
+
+@media screen and (max-width: 988px){
+
+    #tituloPrincipal{
+        margin-top: 13%;
+    }
+
+    #escritaPrincipal{
+        font-size: 2em;
+    } 
+}
+
+@media screen and (max-width: 470px){
+
+    #tituloPrincipal{
+        margin-top: 20%;
+    }
+
+    #escritaPrincipal{
+        font-size: 1.5em;
+    }
+}
+
+@media screen and (max-width: 568px){
+    
+    #tituloPrincipal{
+        margin-top: 20%;
+    }
+
+    #escritaPrincipal{
+        font-size: 1.6em;
+    } 
+}
+
+@media screen and (max-width: 380px){
+
+    #tituloPrincipal{
+        margin-top: 30%;
+    }
+
+    #escritaPrincipal{
+        font-size: 1.3em;
+    }
+}
+
+/*Galaxy Fold*/
+@media screen and (max-width: 320px){
+
+    #tituloPrincipal{
+        margin-top: 30%;
+    }
+
+      #escritaPrincipal{
+        font-size: 1.1em;
+      } 
+}
